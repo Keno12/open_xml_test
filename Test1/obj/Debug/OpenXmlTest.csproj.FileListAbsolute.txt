@@ -1,0 +1,10 @@
+F:\github\open_xml_test\Test1\bin\Debug\Test1.exe.config
+F:\github\open_xml_test\Test1\bin\Debug\Test1.exe
+F:\github\open_xml_test\Test1\bin\Debug\Test1.pdb
+F:\github\open_xml_test\Test1\bin\Debug\DocumentFormat.OpenXml.dll
+F:\github\open_xml_test\Test1\bin\Debug\System.IO.Packaging.dll
+F:\github\open_xml_test\Test1\bin\Debug\WindowsBase.dll
+F:\github\open_xml_test\Test1\obj\Debug\OpenXmlTest.csproj.CoreCompileInputs.cache
+F:\github\open_xml_test\Test1\obj\Debug\OpenXmlTest.csproj.CopyComplete
+F:\github\open_xml_test\Test1\obj\Debug\Test1.exe
+F:\github\open_xml_test\Test1\obj\Debug\Test1.pdb
